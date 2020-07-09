@@ -4,5 +4,4 @@
 - 🌱 I’m currently learning Android and Game Development
 - 💬 Ask me about Gundam
 - 📫 How to reach me: nnurfirmansyah@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I'm Game Developer too
