@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there my name is Nenza Nurfirmansyah👋
 
 - 🔭 I’m currently working on Rolling Glory as Android Developer
 - 🌱 I’m currently learning Android and Game Development
