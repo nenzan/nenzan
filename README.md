@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Game, Gundam and maybe some tech news
-- 📫 How to reach me: nnurfirmansyah@gmail.com / SteamID : Nerovold
+- 📫 How to reach me: nenza.dev@gmail.com / SteamID : Nerovold
 - ⚡ Fun fact: I'm Game Developer too
 
 ## Badges
