@@ -1,4 +1,4 @@
-![](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenzan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there my name is Nenza Nurfirmansyah👋
 
