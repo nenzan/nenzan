@@ -1,3 +1,4 @@
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nenzan)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nenzan)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Hi there my name is Nenza Nurfirmansyah👋
