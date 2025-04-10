@@ -1,6 +1,6 @@
 ### Hi there my name is Nenza Nurfirmansyah 👋
 
-- 🌱 I’m currently learning Flutter
+- ⌨️ I’m a Mobile App Developer
 - 💬 Ask me about Game, Gundam and maybe some tech news
 - 📫 How to reach me: nenza.dev@gmail.com / SteamID : Nerovold
 - ⚡ Fun fact: I'm Game Developer too
